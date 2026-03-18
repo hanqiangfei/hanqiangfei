@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about building robust platform arch
 - 🔭 **Currently working on:** Platform Architecture & Digital Employee (数字员工) projects.
 - 🌱 **Currently learning:** Diving deeper into AI desktop clients (Cherry Studio, Tabby) and learning **French** 🇫🇷!
 - ⚙️ **Tech Interests:** Self-hosting (Nextcloud, MinIO), HomeLab networking (IPv6, WireGuard), and Proxy tools.
-- ⚡ **Fun fact:** When I'm not configuring servers, you can find me exploring *World of Warcraft* or dominating the *Honor of Kings* Peak Tournament (Peak 2000 孙尚香玩家 🏹).
 
 ---
 
